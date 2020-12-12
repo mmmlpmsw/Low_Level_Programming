@@ -1,0 +1,1 @@
+extern void sepia_sse(float src[12], float dst[12]);
